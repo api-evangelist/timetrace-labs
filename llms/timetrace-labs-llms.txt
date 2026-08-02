@@ -1,0 +1,20 @@
+# TimeTrace Labs
+
+> TimeTrace Labs is a London-based mathematics and artificial intelligence company building "the measurement layer for healthcare" — quantitative measurement and analytics that separate signal from noise in multimodal physiological time-series (kinematics, EEG, ECG, actigraphy, glucose, voice). Spun out of a decade of research at the University of Oxford; backed by Seedcamp and Fly Ventures. The company states its outputs power analytics in drug development, public health, and clinical research, accessible through secure APIs and a compliant analytics dashboard, but it publishes no public developer portal, API documentation, or machine-readable API specifications yet.
+
+## Company
+
+- [Website](https://www.timetracelabs.com/): The measurement layer for healthcare
+- [Blog](https://www.timetracelabs.com/blog): Methods from TimeTrace Labs — ML, physics, statistics, mathematics posts
+- [Careers](https://www.timetracelabs.com/careers): Open roles
+- [Privacy policy](https://www.timetracelabs.com/privacy): Covers the public website and clinical trial / pharmacy data services
+- [GitHub organization](https://github.com/TimeTrace-Labs): TimeTrace Labs (no public repositories yet)
+- [LinkedIn](https://www.linkedin.com/company/timetrace-labs/): Company page
+
+## APIs
+
+No public APIs, API documentation, or machine-readable specs (OpenAPI, AsyncAPI, GraphQL) are published as of 2026-07-21. The site describes API-delivered analytics for pharma, biotech, wearables, health systems, and CROs as a partner-access product; contact hello@timetracelabs.com.
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/timetrace-labs/refs/heads/main/apis.yml): API Evangelist network profile for TimeTrace Labs
